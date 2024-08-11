@@ -63,31 +63,3 @@ int main()
 }
 
 
-/*
-int main()
-{
-    using namespace std;
-    float primerValor, segundoValor;
-
-    cout<<"Escribe el primer nC:mero: "<<endl;
-    cin>>primerValor;
-
-    cout<<"Escribe el segundo nC:mero: "<<endl;
-    cin>>segundoValor;
-    cout<<endl;
-
-    float suma = primerValor+segundoValor;
-    float resta = primerValor-segundoValor;
-    float multiplicacion = primerValor*segundoValor;
-    float division = primerValor/segundoValor;
-
-    cout<<"La suma es "<<suma <<endl;
-    cout<<"La resta es "<<resta << endl;
-    cout<<"La multiplicaciC3n es "<<multiplicacion <<endl;
-    cout<<"La divisiC3n es " << division <<endl;
-
-    return 0;
-    }
-    */
-
-
